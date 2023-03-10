@@ -1,5 +1,5 @@
 # Advanced-Sticky-Note
-Sticky Note now can show image. And be put on top layer always.
+Sticky Note now can show image on top layer.
 
 _
 1. 사용 전
