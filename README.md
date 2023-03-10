@@ -1,6 +1,7 @@
 # Advanced-Sticky-Note
 Sticky Note now can show image on top layer.
 
+제목 표사줄 참고 : https://soma0sd.tistory.com/96
 _
 1. 사용 전
 - pyw파일을 그대로 사용하실 경우 pip install pyside2 필수
