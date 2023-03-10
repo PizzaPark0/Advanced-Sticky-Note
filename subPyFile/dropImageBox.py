@@ -26,8 +26,10 @@ class Label(QLabel): #Pyside의 QLabel 오버라이드. 드래그앤 드롭 이�
         m = e.mimeData()
         if m.hasUrls():
             if m.urls()[0].toLocalFile():
-                self._pixmap = QPixmap(m.urls()[0].toLocalFile())
-                
+                f = m.urls()[0].toLocalFile()
+                if f.split('.')[-1].upper() not in ['PNG', 'JPG']:
+                    return
+                self._pixmap = QPixmap(f) 
                 self.setPixmap(self._pixmap)
                 self.parent().resize(self._pixmap.width(), self._pixmap.height())
                 self.resize(self._pixmap.width(), self._pixmap.height())
