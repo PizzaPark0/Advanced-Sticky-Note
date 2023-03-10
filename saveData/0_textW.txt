@@ -2,10 +2,9 @@
 TextBox
 300
 300
-1123
-300
-24
+800
+320
+21
 True
 First Example
-해피 신디
-asdfㅁㄴㅇㄹ
+@@@@
