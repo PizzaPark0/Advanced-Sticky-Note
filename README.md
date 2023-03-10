@@ -5,7 +5,7 @@ Reference(Title Bar) : https://soma0sd.tistory.com/96
 _
 1. 사용 전
 - pyw파일을 그대로 사용하실 경우 pip install pyside2 필수
-- python환경 없이 사용하실 경우, 프로젝트에 첨부해놓은 exe파일 받아서
+- python환경 없이 사용하실 경우, 위 코드의 압축파일을 먼저 다운받은 후에 프로젝트에 첨부해놓은 exe파일 받아서
   Stick Note.pyw 있는 위치에 붙여넣으시면 바로 사용할 수 있습니다. (https://github.com/PizzaPark0/Advanced-Sticky-Note/releases/tag/Memo)
 
 _
