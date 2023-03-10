@@ -1,0 +1,13 @@
+1_imageW.txt
+ImageBox
+300
+300
+1486
+539
+0
+0
+300
+300
+<PySide2.QtGui.QPixmap(QSize(300, 300),depth=32,devicePixelRatio=1,cacheKey=0x6a00000004) at 0x000001CE3BFEFFC0>
+1.0
+True

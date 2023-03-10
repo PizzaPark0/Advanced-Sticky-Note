@@ -1,0 +1,11 @@
+0_textW.txt
+TextBox
+300
+300
+1123
+300
+24
+True
+First Example
+해피 신디
+asdfㅁㄴㅇㄹ
